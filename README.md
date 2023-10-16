@@ -1,2 +1,2 @@
 # High-Performance-Computing
-This reponsitory stores the 4 assignments from the High-Performance Computing course at UCL.
+This reponsitory stores 4 assignments I completed in the High-Performance Computing course at UCL.
